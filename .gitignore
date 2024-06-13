@@ -3,3 +3,5 @@
 .env
 /walkthrough/
 .DS_STORE
+/.ipynb_checkpoints/
+*.ipynb
